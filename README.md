@@ -1,2 +1,2 @@
 # Data
-datasets for Machine Learning 
+Datasets for Machine Learning practice
